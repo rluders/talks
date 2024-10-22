@@ -3,6 +3,8 @@
 
 Welcome to my collection of talks, focusing on software engineering, Go, PHP, microservices, architecture, and more. All talks are designed to be displayed using [maaslalani/slides](https://github.com/maaslalani/slides), a terminal-based presentation tool for developers.
 
+- **LinkedIn**: [linkedin.com/in/ricardoluders](https://www.linkedin.com/in/ricardoluders/)
+
 ## Talks
 
 Each talk is stored in its own directory and covers various topics relevant to software development and architecture.
@@ -33,6 +35,3 @@ All talks in this repository are licensed under the Apache 2 License. Feel free 
 
 > **Disclaimer**: Images and other resources may be under different licenses. Please refer to the respective talk folder for specific licensing information.
 
-## Connect with Me
-
-- **LinkedIn**: [linkedin.com/in/ricardoluders](https://www.linkedin.com/in/ricardoluders/)

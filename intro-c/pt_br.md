@@ -1,4 +1,4 @@
----
+<!-- ---
 marp: true
 theme: default
 paginate: true
@@ -7,7 +7,7 @@ style: |
   section {
     font-size: 1.1em;
   }
----
+--- -->
 
 # Curso de Extensão: Linguagem C  
 ### Ricardo Lüders  
